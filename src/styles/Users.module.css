@@ -1,0 +1,9 @@
+.user {
+  margin: 20px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+.user:active {
+  background-color: red;
+}
